@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ziocash)
+
 ### Hi there 👋
 
 - Main language: C#
