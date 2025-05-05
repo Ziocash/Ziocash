@@ -5,6 +5,7 @@
 - Main language: C#
 - Active projects:
   - Currently working on distributed and cloud-native C# ASP.NET Core applications
+  - Improved skills in provisioning and deploy through Virtual Environments or Cloud providers
   - Heavily interested in low-level programming with OOP interop
   - C to C# integrations (skill improvements)
   - Management softwares
