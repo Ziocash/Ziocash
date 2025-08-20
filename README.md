@@ -20,3 +20,5 @@
 - **Swift**: basic/entry level
 - **Kotlin**: basic/entry level
 - **Python**: entry level
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ziocash&show_icons=true&theme=radical)
